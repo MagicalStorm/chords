@@ -1,24 +1,3 @@
-/*
-
-  ________.__                        _____.___.___________
- /  _____/|  | _____    ____  ____   \__  |   |\__    ___/
-/   \  ___|  | \__  \ _/ ___\/ __ \   /   |   |  |    |   
-\    \_\  \  |__/ __ \\  \__\  ___/   \____   |  |    |   
- \______  /____(____  /\___  >___  >  / ______|  |____|   
-        \/          \/     \/    \/   \/                  
-
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║  ## Created by GlaceYT!                                                ║
-║  ## Feel free to utilize any portion of the code                       ║
-║  ## DISCORD :  https://discord.com/invite/xQF9f9yUEM                   ║
-║  ## YouTube : https://www.youtube.com/@GlaceYt                         ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-
-
-*/
-
 module.exports = {
   TOKEN: "",
   ownerID: ["1004206704994566164", ""], 
@@ -39,9 +18,9 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "lavav4.prplmoe.me",
-        port: 1118,
-        password: "prplmoe.me",
+        host: "lavahatry4.techbyte.host",
+        port: 3000,
+        password: "NAIGLAVA-dash.techbyte.host",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false

@@ -176,6 +176,7 @@ async function handleInteraction(i, player, channel) {
             toggleLoop(player, channel);
             break;
         case 'skipTrack':
+            disableLoop(player, channel);
             player.stop();
             await sendEmbed(channel, "⏭️ **Player will play the next song!**");
             break;

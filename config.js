@@ -10,7 +10,7 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "Ley Lines of the Underworld", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "MagicalStorm is very supportive",
+  SupportServer: "https://www.youtube.com/watch?v=wYlyR_AA5-4",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [

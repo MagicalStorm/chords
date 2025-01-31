@@ -8,9 +8,9 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "Ley Lines of the Underworld", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "MagicalStorm is very supportive",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
